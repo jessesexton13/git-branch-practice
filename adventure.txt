@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Cleopatra
+=======
+MLK
+James Garfield
+>>>>>>> 7115c9393080f8f1cc8ed1fca80359fccf19acf4
